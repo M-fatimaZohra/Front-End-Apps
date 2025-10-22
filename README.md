@@ -27,7 +27,7 @@ A minimal and elegant calculator UI with a neat button layout and smooth spacing
 
 ---
 
-# 🧠 Day Two Progress (October 22, 2025)  
+## 🧠 Day Two Progress (October 22, 2025)  
 
 ✅ Added **JavaScript functionality** to the **Calculator**  
 ✅ Completed it in **one hour**  
