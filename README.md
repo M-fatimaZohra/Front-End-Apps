@@ -20,7 +20,7 @@ Perfect for showcasing images with smooth interaction and adaptive design across
 A **fully functional calculator** designed with a clean and minimal interface.  
 It performs all **basic arithmetic operations** using JavaScript, with a **smooth button layout**, **instant calculations**, and a **responsive design** for different devices.  
 
-  ![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge)](https://front-end-apps.vercel.app/)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge)](https://front-end-apps.vercel.app/)
 
 ---
 
