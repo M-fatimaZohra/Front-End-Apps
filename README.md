@@ -12,11 +12,15 @@ A fully functional and responsive **photo gallery app** built from scratch using
 It includes a **preview mode** with **next** and **previous navigation**, a **toggle (X)** to exit preview, and a layout designed using **CSS Grid**.  
 Perfect for showcasing images with smooth interaction and adaptive design across all screen sizes.  
 
+ [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge)](https://front-end-apps-qoob.vercel.app/)
+
 ---
 
 ### 🧮 Calculator  
 A **fully functional calculator** designed with a clean and minimal interface.  
 It performs all **basic arithmetic operations** using JavaScript, with a **smooth button layout**, **instant calculations**, and a **responsive design** for different devices.  
+
+  ![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge)](https://front-end-apps.vercel.app/)
 
 ---
 
