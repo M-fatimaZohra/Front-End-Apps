@@ -1,24 +1,26 @@
-# 🧠 Frontend Challenge — Day One  
+# Frontend Challenge — Day One  
 
 Today, I started my **Frontend Challenge** — to build multiple web apps using **only HTML, CSS, and JavaScript** (no frameworks, no libraries)!  
 My goal is to sharpen my fundamentals and create functional, beautiful UIs from scratch.  
 
 ---
 
-## 🚀 Apps Built Today  
+## 🚀 Apps Built During Task  
 
 ### 🖼️ Photo Gallery — *“Gallary Gallaria”*  
-A modern, responsive photo gallery designed with **CSS Grid** and clean layouts.  
-Perfect for showcasing images in a flexible, adaptive design.  
+A fully functional and responsive **photo gallery app** built from scratch using **HTML, CSS, and JavaScript**.  
+It includes a **preview mode** with **next** and **previous navigation**, a **toggle (X)** to exit preview, and a layout designed using **CSS Grid**.  
+Perfect for showcasing images with smooth interaction and adaptive design across all screen sizes.  
 
 ---
 
 ### 🧮 Calculator  
-A minimal and elegant calculator UI with a neat button layout and smooth spacing.  
+A **fully functional calculator** designed with a clean and minimal interface.  
+It performs all **basic arithmetic operations** using JavaScript, with a **smooth button layout**, **instant calculations**, and a **responsive design** for different devices.  
 
 ---
 
-## 🕒 Day One Progress (October 10, 2025)  
+## Day One Progress (October 10, 2025)  
 
 ✅ Built UI for both apps from scratch  
 ✅ Used only **HTML** and **CSS**  
@@ -27,24 +29,30 @@ A minimal and elegant calculator UI with a neat button layout and smooth spacing
 
 ---
 
-## 🧠 Day Two Progress (October 22, 2025)  
+## Day Two Progress (October 22, 2025)  
 
 ✅ Added **JavaScript functionality** to the **Calculator**  
 ✅ Completed it in **one hour**  
-💡 The calculator now performs basic arithmetic operations smoothly!  
+💡 The calculator now performs basic arithmetic operations smoothly.  
 
 ---
 
-## 📅 Next Steps  
+## Day Three Progress (October 25, 2025)  
 
-- Add interactive features to **Gallary Gallaria**  
-- Make both apps **fully responsive**  
-- Add hover effects and minor UI polish  
-- Move to **Day Three** of the challenge!  
+✅ Completed **Gallary Gallaria** functionality in **one day**  
+✅ Added **preview mode** with **next** and **previous** navigation  
+✅ Included a **toggle (X)** button to **exit preview mode**  
+✅ Made the entire gallery **fully responsive** for all screen sizes  
 
 ---
 
-### 💡 Tools Used  
+💡 This challenge helped me truly understand the **concept of the DOM** — something I once thought was complex but turned out to be incredibly easy once I explored it hands-on.  
+
+🔥 I no longer struggle with DOM manipulation, and this project gave me the confidence to dive deeper into interactive web experiences.  
+
+---
+
+### Tools Used  
 
 - HTML5  
 - CSS3  
@@ -53,5 +61,5 @@ A minimal and elegant calculator UI with a neat button layout and smooth spacing
 
 ---
 
-✨ **Stay tuned for more updates and progress logs!**  
-*— Fatima Zohra 🧩*  
+**Stay tuned for more updates and progress logs!**  
+*— Fatima Zohra*  
